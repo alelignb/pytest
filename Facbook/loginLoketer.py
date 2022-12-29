@@ -1,0 +1,7 @@
+web="https://www.Facebook.com/"
+masseg= "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]"
+err= "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/form[1]/div[1]/div[2]"
+forgot="//a[contains(text(),'Forgot password?')]"
+r_email="//input[@id='identify_email']"
+search="//a[contains(text(),'Cancel')]"
+accept="//input[@id='pass']"

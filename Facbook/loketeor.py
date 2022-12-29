@@ -1,0 +1,12 @@
+# when login facebook by username and password is correct
+facebook_path =  "https://www.facebook.com/"
+registor_path= "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[5]/a[1]"
+firstname="firstname"
+lastname="lastname"
+email="reg_email__"
+paswerd= "//input[@id='password_step_input']"
+mounth="/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[5]/div[2]/span[1]/span[1]/select[1]"
+day="//select[@id='day']"
+year="year"
+gender="/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[7]/span[1]/span[2]/input[1]"
+sinup="/html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/form[1]/div[1]/div[11]/button[1]"
